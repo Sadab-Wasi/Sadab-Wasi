@@ -1,4 +1,4 @@
-### Projects are coming soon
+### Projects will be uploaded very soon
 
 <!--
 **Sadab-Wasi/Sadab-Wasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
